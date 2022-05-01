@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Playfair+Display');
+
+
+body {
+    font-weight: 100;
+
+    font-family: 'Noto Sans', serif;
+
+}
+
+h1  {
+    font-weight: 100;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+.header-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+}
+
+.tour-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.border {
+    border: 1px solid silver;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.popularTours {
+    display: block;
+    min-height: 300px;
+}
+
+.popularTours ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.popularTours li {
+    float: left;
+}
+
+
+.img-box {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.title-on-image {
+    position: absolute;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;   
+}
+
+.res-form-header {
+    margin-bottom: 30px;
+    border-bottom: 5px solid rgb(77, 77, 77);
+}
+
+.tour_main_header {
+    font-size: 18px;
+    font-weight: bold;
+    max-width: 100%;
+}
+
+.tour-info h2 {
+    margin-bottom: 40px;
+}
+
+.make-payment-title {
+    padding:15px;
+    border-bottom:1px solid silver;
+    margin-bottom: 20px;
+}
+
+.payment-success-back {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.alert-ul {
+    margin: 1em;
+}
+
+.summary {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
