@@ -1,4 +1,4 @@
-# TourSale | Laravel Tour Booking Software
+# CarPool | CarPool Booking Software
 
 TourSale is a tour booking system which built in Laravel and VueJs.
 
